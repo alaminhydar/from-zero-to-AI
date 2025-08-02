@@ -310,7 +310,7 @@ Used by companies like Netflix, Uber, and Facebook.
 
 ## 19. Deep Learning 🧠
 
-Now we go deep — literally.
+Now we go deep literally.
 
 📌 **Use Case:** Image recognition, speech synthesis, game AI, medical imaging.
 
